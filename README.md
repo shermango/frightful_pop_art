@@ -1,6 +1,17 @@
 # Identicon
 
-**TODO: Add description**
+**Simple CLI tool to generate an Identicon**
+
+## Use
+
+```elixir
+  iex> Identicon.main({YOUR STRING HERE}) # typically your unique username
+  # and it will output as a .png file in the same dir
+```
+
+## Why?
+
+Just practing more Elixir, piping, pattern matching, structs, concepts, etc -- you know it
 
 ## Installation
 
